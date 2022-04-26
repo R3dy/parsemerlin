@@ -3,6 +3,8 @@ Parse through Merlin agent logs
 
 Extracts the important information about commands and stores them in an array of hash objects.  Give it a `URL`, `endpoint` and `basicauth` creds and it will send them off to a remote server for further processing.
 
+[![Gem Version](https://badge.fury.io/rb/parsemerlin.svg)](https://badge.fury.io/rb/parsemerlin)
+
 ## Installation
 ```
 gem install parsemerlin
